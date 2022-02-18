@@ -1,4 +1,4 @@
 # plane_war
-a simple plane war game
+A simple plane war game
 
-please download both "main" and "master" branches, and then move the "Lib" folder in "master" branch to the "main" directory.
+To let the programme work, please download both "main" and "master" branches, and then move the "Lib" folder in "master" branch to the "main" directory.
